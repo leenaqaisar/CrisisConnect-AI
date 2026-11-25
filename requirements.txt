@@ -1,0 +1,11 @@
+streamlit
+pandas
+numpy
+torch
+transformers==5.24.1
+joblib
+scikit-learn
+plotly
+google-genai
+safetensors
+huggingface_hub
